@@ -56,6 +56,12 @@ header nav a:hover{
     font-size: 30px
 }
 
+body {
+    background: url('/img/imagenes/fondo-diseno-helado-pastel_53876-154122.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
 
 main{
     padding: 200px 100px 20px 100px;
