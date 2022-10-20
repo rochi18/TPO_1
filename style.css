@@ -51,22 +51,22 @@ body .btn-primary {
     border-color: #ff36d3;
     color: #FFF; }
     body .btn-primary:hover, body .btn-primary:focus {
-      border-color: #ff36d3;
-      background-color: #ff36d3;
-      color: #FFF; }
+    border-color: #ff36d3;
+    background-color: #ff36d3;
+    color: #FFF; }
     body .btn-primary:active, body .btn-primary:visited, body .btn-primary:active:focus, body .btn-primary:active:hover {
-      border-color: #ff36d3;
-      background-color: #ff36d3;
-      color: #FFF; }
+    border-color: #ff36d3;
+    background-color: #ff36d3;
+    color: #FFF; }
 
- .container{
+.container{
     display: inline-block;
     margin-top: 5rem;
- }     
+}     
 .text-left{
-   background: linear-gradient(yellow,red);
-  -webkit-background-clip: text;
-  color: transparent;  
+background: linear-gradient(yellow,red);
+-webkit-background-clip: text;
+color: transparent;  
 }
 .form-horizontal{
     width: 100%;
@@ -93,7 +93,7 @@ body .btn-primary {
 .mapa{
     padding: auto;
     background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
-                  url("img/helado.png");
+                url("img/helado.png");
 
     background-color: transparent; }
 
