@@ -13,9 +13,10 @@
                event.preventDefault()
                event.stopPropagation()
              }
+              else{alert("Formulario enviado con éxito") }    
      
              form.classList.add('was-validated')
-             alert("Formulario enviado con éxito") }, false)
+             }, false)
            
          })
      })()
