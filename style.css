@@ -32,7 +32,6 @@ header{
     position: fixed;
     z-index: 10;
 }
-
 header nav a{
     display: inline-block;
     color: black;
@@ -71,7 +70,7 @@ body .btn-primary {
 
 .container{
     display: inline-block;
-    margin-top: 5rem;
+    margin-top: 10rem;
 }     
 .text-left{
 background: linear-gradient(yellow,red);
