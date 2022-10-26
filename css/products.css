@@ -101,6 +101,44 @@ header nav a:hover{
       font-family: 'Montserrat', sans-serif;
   }
 
+.copas{
+    border-top: 5 rem;
+}
+
+.sectCards{
+    background-color: #ec93dfcc;
+    padding-bottom: 10px;
+}
+.segundaCards {
+    background-color: #f7f7f6dc;
+    border: #092b3a 2px solid;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(9, 9, 9, 0.2);
+    cursor: default;
+    transition: all 400ms ease;
+}
+.segundaCards:hover{
+    box-shadow: 5px 5px 20px rgba(9, 9, 9, 0.4) ;
+    transform: translateY(-3%);
+}
+.segundaCards p{
+    line-height: 1.4;
+}
+.segundaCards a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 0;
+    color: #0f3c43;
+    border: 1px solid #0f3c43;
+    border-radius: 4px;
+    transition: all 400ms ease;
+}
+.segundaCards a:hover{
+    background-color: #5e888f;
+    color: white;
+}
+  
 
 
   /*para tablet 768*/
@@ -149,44 +187,7 @@ header nav a:hover{
       font-size: 16px;
   }
 
-.copas{
-    border-top: 5 rem;
-}
 
-.sectCards{
-    background-color: #ec93dfcc;
-    padding-bottom: 10px;
-}
-.segundaCards {
-    background-color: #f7f7f6dc;
-    border: #092b3a 2px solid;
-    border-radius: 10px;
-    box-shadow: 0px 4px 10px rgba(9, 9, 9, 0.2);
-    cursor: default;
-    transition: all 400ms ease;
-}
-.segundaCards:hover{
-    box-shadow: 5px 5px 20px rgba(9, 9, 9, 0.4) ;
-    transform: translateY(-3%);
-}
-.segundaCards p{
-    line-height: 1.4;
-}
-.segundaCards a{
-    text-decoration: none;
-    display: inline-block;
-    padding: 10px;
-    margin: 10px 0;
-    color: #0f3c43;
-    border: 1px solid #0f3c43;
-    border-radius: 4px;
-    transition: all 400ms ease;
-}
-.segundaCards a:hover{
-    background-color: #5e888f;
-    color: white;
-}
-  
   
   .sucursal_title {
       text-align: center;
