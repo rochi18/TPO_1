@@ -79,7 +79,7 @@ color: transparent;
 }
 .form-horizontal{
     width: 100%;
-    background-image: url("/img/frutilla.png");
+    background-image: url("img/frutilla.png");
     background-size: cover;
     background-position: center;
     padding: 30px, 33px, 60px;
