@@ -57,7 +57,7 @@ header nav a:hover{
 }
 
 body {
-    background: url('./img/imagenes/fondo-diseno-helado-pastel_53876-154122.webp');
+    background: url('img/imagenes/fondo-diseno-helado-pastel_53876-154122.webp');
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
